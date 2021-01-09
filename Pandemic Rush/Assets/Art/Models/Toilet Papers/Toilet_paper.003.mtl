@@ -1,0 +1,5 @@
+newmtl Toilet_Paper
+map_Kd essential_item_textures.png
+Kd 0.8 0.8 0.8
+d 1
+
